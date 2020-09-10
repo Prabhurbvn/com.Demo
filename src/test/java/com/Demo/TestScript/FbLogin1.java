@@ -27,7 +27,7 @@ public class FbLogin1 {
 	@Test
 	public void verifyTitle()
 	{
-		Assert.assertEquals(driver.getTitle(), "Facebook – log in or sign up");
+		Assert.assertEquals(driver.getTitle(), "Facebook  log in or sign up");
 	}
 	
 	@Test

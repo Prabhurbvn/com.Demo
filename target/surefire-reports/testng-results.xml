@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16870" started-at="2020-09-10T14:39:40 IST" finished-at="2020-09-10T14:39:57 IST">
+  <suite name="Suite" duration-ms="50321" started-at="2020-09-10T15:00:39 IST" finished-at="2020-09-10T15:01:30 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16870" started-at="2020-09-10T14:39:40 IST" finished-at="2020-09-10T14:39:57 IST">
+    <test name="Test" duration-ms="50321" started-at="2020-09-10T15:00:39 IST" finished-at="2020-09-10T15:01:30 IST">
       <class name="com.Demo.TestScript.FbLogin">
-        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="setUpChrome" is-config="true" duration-ms="14598" started-at="2020-09-10T14:39:40 IST" finished-at="2020-09-10T14:39:55 IST">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="setUpChrome" is-config="true" duration-ms="47463" started-at="2020-09-10T15:00:39 IST" finished-at="2020-09-10T15:01:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpChrome -->
-        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="verifyTitle" duration-ms="35" started-at="2020-09-10T14:39:55 IST" finished-at="2020-09-10T14:39:55 IST">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="verifyTitle" duration-ms="112" started-at="2020-09-10T15:01:27 IST" finished-at="2020-09-10T15:01:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method status="PASS" signature="verifyUrl()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="verifyUrl" duration-ms="5" started-at="2020-09-10T14:39:55 IST" finished-at="2020-09-10T14:39:55 IST">
+        <test-method status="PASS" signature="verifyUrl()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="verifyUrl" duration-ms="6" started-at="2020-09-10T15:01:27 IST" finished-at="2020-09-10T15:01:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUrl -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="tearDown" is-config="true" duration-ms="2173" started-at="2020-09-10T14:39:55 IST" finished-at="2020-09-10T14:39:57 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demo.TestScript.FbLogin@1faf8f2]" name="tearDown" is-config="true" duration-ms="2532" started-at="2020-09-10T15:01:27 IST" finished-at="2020-09-10T15:01:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

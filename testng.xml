@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.Demo.TestScript.FbLogin"/>
+      <class name="com.Demo.TestScript.FbLogin1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
