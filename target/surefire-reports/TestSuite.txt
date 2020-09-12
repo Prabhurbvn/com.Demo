@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.853 s - in TestSuite
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 73.307 s <<< FAILURE! - in TestSuite
+com.Demo.TestScript.FbLogin1.verifyTitle  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.AssertionError: expected [Facebook  log in or sign up] but found [Facebook – log in or sign up]
+	at com.Demo.TestScript.FbLogin1.verifyTitle(FbLogin1.java:30)
+
